@@ -1,0 +1,3 @@
+CustomerID,CustomerName
+12,Neus Berneda
+17,Marcos Alonso
